@@ -3,15 +3,15 @@
 
 ###
 
-<p align="left">My name is Kacper and I'm a Software Engineer, from Poland</p>
+<p align="left">My name is Kacper and I'm a self-taught programmer, from Poland</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<!-- <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning web scraping<br>🎯 Goals: Make effective applicaitons <br>🎲 Fun fact: I hated coding at first</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning web scraping<br>🎯 Goals: Make effective applicaitons <br>🎲 Fun fact: I hated coding at first</p> -->
 
 ###
 
